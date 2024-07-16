@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "722415507675",
+    "project_id": "lab-assignment-70850",
+    "storage_bucket": "lab-assignment-70850.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:722415507675:android:ffe5a1182259b0b27014fe",
+        "android_client_info": {
+          "package_name": "com.noman.lab8.lab8"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDrzTc-5r4HbsNE_4ZbFFxGDs2c5TqHl0Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
